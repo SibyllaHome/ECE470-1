@@ -1,2 +1,2 @@
-# ECE470
+# ECE470 Lab
 FA19 ECE470 Lab Code
